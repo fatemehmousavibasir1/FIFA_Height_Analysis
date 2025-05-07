@@ -22,7 +22,7 @@ FIFA-Height-Analysis/
 
 ---
 
-## 🔍 Key Questions
+##  Key Questions
 
 - Has the average height of players changed from 2011 to 2021?
 - How has the distribution of player heights evolved?
@@ -31,7 +31,7 @@ FIFA-Height-Analysis/
 
 
 
-## 📦 Requirements
+##  Requirements
 
 This project uses only essential Python data libraries:
 
